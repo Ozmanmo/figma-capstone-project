@@ -15,6 +15,10 @@ font-family: Lexend  Deca;
 background-color: #f6f7f1;
 
 }
+.headeritems{
+    display: flex;
+    justify-content: space-between;
+}
 
 /* images */
 /* I have more to do on the images */
@@ -25,8 +29,12 @@ height: auto;
 border-color: brown;
 border: 5px 0 #f6f7f1;
 /*          */
-position:absolute;
-top: -257px;
+position: relative;
+left: 900px;
+top:200px;
+
+
+
 
 
 }
@@ -76,6 +84,9 @@ background: #f14c36;
 /* positioning */
 padding-right: 60px;
 border-radius: 50px;
+max-width: 250px;
+text-align: center;
+position: relative;
 }
 
 /* text inside the button*/
