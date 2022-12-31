@@ -24,7 +24,7 @@ background-color: #f6f7f1;
 /* I have more to do on the images */
 
 .image img{
-max-width: 480px;
+max-width: 500px;
 height: auto;
 border-color: brown;
 border: 5px 0 #f6f7f1;
@@ -32,10 +32,6 @@ border: 5px 0 #f6f7f1;
 position: relative;
 left: 900px;
 top:200px;
-
-
-
-
 
 }
 
